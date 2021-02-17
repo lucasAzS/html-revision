@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    background: url('background1.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 5000px;
+}
+
+.back {
+    width: 200px;
+    height: 400px;
+    margin: 0 auto;
+    background: url('background2.jpg') no-repeat center;
+    background-size: cover;
+    box-shadow: 10px 10px 5px #000;
+}

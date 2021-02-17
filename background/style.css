@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    background: url('background1.jpg');
+    background: url('https://images.pexels.com/photos/1591447/pexels-photo-1591447.jpeg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -12,7 +12,8 @@ body {
     width: 200px;
     height: 400px;
     margin: 0 auto;
-    background: url('background2.jpg') no-repeat center;
+    background: url('https://images.pexels.com/photos/1386604/pexels-photo-1386604.jpeg')
+        no-repeat center;
     background-size: cover;
     box-shadow: 10px 10px 5px #000;
 }
